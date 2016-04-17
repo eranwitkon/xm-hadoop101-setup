@@ -1,4 +1,7 @@
-# DigitalOcean setup instruction
+# XM Hadoop 101 setup
+The following links are  usefull for seting up the cluster
+
+## DigitalOcean setup instruction
 
 1. [How To Create a Sudo User on Ubuntu [Quickstart] | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart)
 2. [How to Install Hadoop on Ubuntu 13.10 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-hadoop-on-ubuntu-13-10)
@@ -7,7 +10,8 @@
 5. [Spinning up an Apache Spark Cluster: Step-by-Step](http://blog.insightdatalabs.com/spark-cluster-step-by-step/)
 
 ** WebUI
-1. [Hadoop - Browsing HDFS](http://YOUR-MASTER-IP:50070/explorer.html#/data
+
+1. [Hadoop - Browsing HDFS](http://YOUR-MASTER-IP:50070/explorer.html#/data)
 2. [Spark - Spark Master](http://YOUR-MASTER-IP:8080)
 
 *** Sample Text files
